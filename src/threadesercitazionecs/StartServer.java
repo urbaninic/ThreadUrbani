@@ -21,7 +21,7 @@ public class StartServer {
         srv = new Server(2000);
         srv.inAscolto();
         srv.scrivi("benvenuto client");
-        
+        // commento1
     }
     
 }
